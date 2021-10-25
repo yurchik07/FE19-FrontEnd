@@ -1,0 +1,41 @@
+.awesome {
+    background-color: #E5E5E5;
+    padding: 20px 0;
+}
+.title-awesome {
+    width: 1170px;
+    text-align: center;
+    font-size: 36px;
+    color: black;
+    margin: auto;
+    margin-bottom: 30px;
+}
+.line-awesome {
+    width: 100px;
+    height: 2px;
+    margin: auto;
+    background-color: chocolate;
+    margin-bottom: 40px;
+}
+.description-awesome {
+    font-size: 18;
+    color:#86878B;
+    width: 1169px;
+    margin: auto;
+    text-align: center;
+    margin-bottom: 110px;
+}
+.item {
+    width: 370px;
+    text-align: center;
+    margin-bottom: ;
+
+}
+.item-img {
+    margin-bottom: 39px;
+}
+.awesome-item-title {
+    margin-bottom: 8px;
+}
+
+
